@@ -1,0 +1,50 @@
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\bin\Debug\Pansiyon_Dinlenme_Tesisleri.exe.config
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\bin\Debug\Pansiyon_Dinlenme_Tesisleri.exe
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\bin\Debug\Pansiyon_Dinlenme_Tesisleri.pdb
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.csproj.AssemblyReference.cache
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.Properties.Resources.resources
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.csproj.GenerateResource.cache
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.csproj.CoreCompileInputs.cache
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.exe
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.pdb
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmYeniMusteri.resources
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmAnaForm.resources
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmAdminGiris.resources
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmOdalar.resources
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmMusteriler.resources
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmGelirGider.resources
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmStoklar.resources
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\bin\Debug\Interop.WMPLib.dll
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Interop.WMPLib.dll
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.csproj.ResolveComReference.cache
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmRadyoDinle.resources
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmGazateler.resources
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmSıfreGuncelle.resources
+C:\Users\ŞEVVAL\source\repos\Pansiyon_Dinlenme_Tesisleri\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmMesajlar.resources
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\bin\Debug\Pansiyon_Dinlenme_Tesisleri.exe.config
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\bin\Debug\Pansiyon_Dinlenme_Tesisleri.exe
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\bin\Debug\Pansiyon_Dinlenme_Tesisleri.pdb
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\bin\Debug\Interop.WMPLib.dll
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.csproj.AssemblyReference.cache
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Interop.WMPLib.dll
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.csproj.ResolveComReference.cache
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmAdminGiris.resources
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmAnaForm.resources
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmGazateler.resources
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmGelirGider.resources
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmMesajlar.resources
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmMusteriler.resources
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmOdalar.resources
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmRadyoDinle.resources
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmStoklar.resources
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmSıfreGuncelle.resources
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.FrmYeniMusteri.resources
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.Properties.Resources.resources
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.csproj.GenerateResource.cache
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.csproj.CoreCompileInputs.cache
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.exe
+C:\Users\ŞEVVAL\Documents\bil. müh dersler\visual\visual_proje\Pansiyon_Dinlenme_Tesisleri\obj\Debug\Pansiyon_Dinlenme_Tesisleri.pdb
